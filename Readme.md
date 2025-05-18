@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Николай Солодухин](https://up.htmlacademy.ru/nodejs-2-individual/2/user/138404).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Наумов](https://htmlacademy.ru/profile/naumov_evg).
 
 ---
 
